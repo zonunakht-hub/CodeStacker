@@ -11,11 +11,6 @@
 
 The AI agent management system that brings structure, memory, and precision to every project you build with AI.
 
-<br/>
-
-<img src="assets/terminal.svg" alt="CodeStacker terminal — Mode Plan, Skill Builder, Mode Approved in action" width="720"/>
-
-<br/>
 
 [Quick Start](#-quick-start) · [Commands](#-mode-commands-reference) · [Community Skills](https://github.com/CoSama-Ai/CodeStacker-Skills) · [Marketplace](https://codestacker.co) · [cosama.co](https://cosama.co)
 
