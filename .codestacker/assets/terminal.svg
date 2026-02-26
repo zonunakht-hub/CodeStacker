@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 490" width="720" height="490">
+  <defs>
+    <style>
+      text { font-family: 'SF Mono','Fira Code','Fira Mono','Roboto Mono','Consolas','Courier New',monospace; }
+      .blink { animation: cursor-blink 1.1s step-end infinite; }
+      @keyframes cursor-blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- ░░ OUTER BACKGROUND — medium gray ░░ -->
+  <rect width="720" height="490" rx="16" fill="#545454"/>
+
+  <!-- subtle inner highlight on outer bg top edge -->
+  <rect width="720" height="1" y="0" rx="1" fill="#6A6A6A" opacity="0.6"/>
+
+  <!-- ░░ TERMINAL WINDOW ░░ -->
+  <rect x="20" y="20" width="680" height="450" rx="12" fill="#0D1117"/>
+
+  <!-- ░░ TITLE BAR ░░ -->
+  <rect x="20" y="20" width="680" height="40" rx="12" fill="#161B22"/>
+  <!-- fill bottom corners of title bar -->
+  <rect x="20" y="46" width="680" height="14" fill="#161B22"/>
+  <!-- title bar bottom border -->
+  <rect x="20" y="59" width="680" height="1" fill="#30363D"/>
+
+  <!-- traffic lights -->
+  <circle cx="46" cy="40" r="7" fill="#FF5F57"/>
+  <circle cx="68" cy="40" r="7" fill="#FEBC2E"/>
+  <circle cx="90" cy="40" r="7" fill="#28C840"/>
+  <!-- light detail marks -->
+  <circle cx="46" cy="40" r="3.5" fill="#C0392B" opacity="0.35"/>
+  <circle cx="68" cy="40" r="3.5" fill="#C07000" opacity="0.35"/>
+  <circle cx="90" cy="40" r="3.5" fill="#0A7A2A" opacity="0.35"/>
+
+  <!-- window title -->
+  <text x="360" y="45" font-size="12" fill="#8B949E" text-anchor="middle">.codestacker — AI Agent Terminal</text>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- TERMINAL CONTENT                        -->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- ── $ Mode Start ── -->
+  <text x="40" y="86" font-size="13.5">
+    <tspan fill="#58A6FF">$ </tspan><tspan fill="#FFA657" font-weight="bold">Mode Start</tspan>
+  </text>
+
+  <text x="40" y="108" font-size="13.5">
+    <tspan fill="#3FB950">✓ </tspan><tspan fill="#C9D1D9">.codestacker v1.0.0 — system online</tspan>
+  </text>
+
+  <text x="40" y="127" font-size="13.5">
+    <tspan fill="#8B949E">  Project: </tspan><tspan fill="#79C0FF">MyApp</tspan><tspan fill="#8B949E">  ·  Phase: </tspan><tspan fill="#79C0FF">Feature Build</tspan><tspan fill="#8B949E">  ·  Skills: </tspan><tspan fill="#79C0FF">0 loaded</tspan>
+  </text>
+
+  <!-- ── $ Mode Plan ── -->
+  <text x="40" y="158" font-size="13.5">
+    <tspan fill="#58A6FF">$ </tspan><tspan fill="#FFA657" font-weight="bold">Mode Plan</tspan><tspan fill="#C9D1D9"> - Add user authentication</tspan>
+  </text>
+
+  <!-- skill assessment header -->
+  <text x="40" y="180" font-size="13" fill="#58A6FF">
+    <tspan>  Skill Assessment </tspan><tspan fill="#21262D">─────────────────────────────────────────────</tspan>
+  </text>
+
+  <!-- installed skill: Next.js -->
+  <text x="40" y="202" font-size="13.5">
+    <tspan fill="#3FB950">  ✓ </tspan><tspan fill="#C9D1D9">Next.js    </tspan><tspan fill="#8B949E">→ </tspan><tspan fill="#79C0FF">skills/frameworks/nextjs.md</tspan>
+  </text>
+
+  <!-- installed skill: Supabase -->
+  <text x="40" y="224" font-size="13.5">
+    <tspan fill="#3FB950">  ✓ </tspan><tspan fill="#C9D1D9">Supabase   </tspan><tspan fill="#8B949E">→ </tspan><tspan fill="#79C0FF">skills/databases/supabase.md</tspan>
+  </text>
+
+  <!-- missing skill: JWT Auth -->
+  <text x="40" y="246" font-size="13.5">
+    <tspan fill="#F0883E">  ⚠ </tspan><tspan fill="#C9D1D9">JWT Auth   </tspan><tspan fill="#F0883E">→ not installed · auto-building with Skill Builder...</tspan>
+  </text>
+
+  <!-- section divider -->
+  <line x1="40" y1="263" x2="695" y2="263" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- ── Skill Builder output ── -->
+  <text x="40" y="283" font-size="13.5">
+    <tspan fill="#FFA657" font-weight="bold">  ◆ CodeStacker Skill Builder</tspan>
+  </text>
+
+  <text x="40" y="305" font-size="13.5">
+    <tspan fill="#3FB950">  ✓ </tspan><tspan fill="#C9D1D9">New skill created: </tspan><tspan fill="#79C0FF">skills/libraries/jwt-auth.md</tspan>
+  </text>
+
+  <text x="40" y="325" font-size="13.5">
+    <tspan fill="#8B949E">    → </tspan><tspan fill="#FFA657">codestacker.co</tspan><tspan fill="#8B949E"> for engineering-grade skills</tspan>
+  </text>
+
+  <!-- section divider -->
+  <line x1="40" y1="341" x2="695" y2="341" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- plan ready message -->
+  <text x="40" y="361" font-size="13.5">
+    <tspan fill="#58A6FF">  Plan ready — 5 steps · type </tspan><tspan fill="#FFA657" font-weight="bold">Mode Approved</tspan><tspan fill="#58A6FF"> to execute</tspan>
+  </text>
+
+  <!-- ── $ Mode Approved ── -->
+  <text x="40" y="393" font-size="13.5">
+    <tspan fill="#58A6FF">$ </tspan><tspan fill="#FFA657" font-weight="bold">Mode Approved</tspan>
+  </text>
+
+  <text x="40" y="415" font-size="13.5">
+    <tspan fill="#3FB950">✓ </tspan><tspan fill="#C9D1D9">Executing plan... 5/5 steps complete. Session logged.</tspan>
+  </text>
+
+  <!-- ── next prompt + blinking cursor ── -->
+  <text x="40" y="447" font-size="13.5">
+    <tspan fill="#58A6FF">$ </tspan>
+  </text>
+  <rect x="58" y="433" width="8.5" height="15" fill="#58A6FF" class="blink"/>
+
+</svg>
